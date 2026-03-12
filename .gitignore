@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Type checker / linter cache
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.pyre/
+
+# Build files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Local databases
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
